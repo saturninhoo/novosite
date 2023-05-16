@@ -15,8 +15,18 @@
 
 .paragrafo {
     font-family: garamond;
+    margin: 10px;
 }
 
 .titulo3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
+
+.titulo4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo5 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
