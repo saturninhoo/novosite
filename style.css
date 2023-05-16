@@ -1,8 +1,13 @@
 .nome {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin: 20px;
+    margin: 50px;
 }
 
 .venha {
     font-family:'Courier New', Courier, monospace
+}
+
+.titulo2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px;
 }
