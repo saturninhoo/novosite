@@ -1,8 +1,9 @@
 body {
-    background-color: #e31005;
+    background-color: #f74c43;
 }
 
 .nome {
+    color: #b81007;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 50px;
 }
