@@ -3,7 +3,7 @@ body {
 }
 
 .nome {
-    color: #b81007;
+    color: #910b04;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 50px;
 }
@@ -19,6 +19,7 @@ body {
 }
 
 .paragrafo {
+    color: #ffff;
     font-family: garamond;
     margin: 10px;
 }
@@ -33,6 +34,7 @@ body {
 }
 
 .paragrafo2 {
+    color: #ffff;
     font-family: garamond;
 }
 
@@ -41,5 +43,6 @@ body {
 }
 
 .paragrafo3 {
+    color: #ffff;
     font-family: garamond;
 }
