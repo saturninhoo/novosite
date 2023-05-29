@@ -9,11 +9,13 @@ body {
 }
 
 .venha {
+    color: #6e2925;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     margin: 20px;
 }
 
 .titulo2 {
+    color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 50px;
 }
@@ -25,11 +27,13 @@ body {
 }
 
 .titulo3 {
+    color: #c4c3c0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
 }
 
 .titulo4 {
+    color: #949188;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -39,6 +43,7 @@ body {
 }
 
 .titulo5 {
+    color: #6e6c69;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
