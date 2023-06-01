@@ -40,6 +40,7 @@ body {
 .paragrafo2 {
     color: #c4c3c0;
     font-family: garamond;
+    margin: 5px;
 }
 
 .titulo5 {
@@ -50,6 +51,7 @@ body {
 .paragrafo3 {
     color: #c4c3c0;
     font-family: garamond;
+    margin: 5px;
 }
 
 .maça {
@@ -58,4 +60,10 @@ body {
 
 .mousse {
     margin: 20px;
+}
+
+.estamos {
+    color: #c4c3c0;
+    font-family: garamond;
+    margin: 5px;
 }
