@@ -9,9 +9,9 @@ body {
 }
 
 .venha {
-    color: #6e2925;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-    margin: 20px;
+    color: #542927;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px;
 }
 
 .titulo2 {
@@ -21,33 +21,33 @@ body {
 }
 
 .paragrafo {
-    color: #ffff;
+    color: #c4c3c0;
     font-family: garamond;
     margin: 10px;
 }
 
 .titulo3 {
-    color: #c4c3c0;
+    color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
 }
 
 .titulo4 {
-    color: #949188;
+    color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .paragrafo2 {
-    color: #ffff;
+    color: #c4c3c0;
     font-family: garamond;
 }
 
 .titulo5 {
-    color: #6e6c69;
+    color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .paragrafo3 {
-    color: #ffff;
+    color: #c4c3c0;
     font-family: garamond;
 }
