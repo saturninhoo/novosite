@@ -6,6 +6,8 @@ body {
     color: #910b04;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .venha {
