@@ -72,9 +72,19 @@ body {
     margin: 5px;
 }
 
-.copodafelicidade {
+.titulocopo {
     display: flex;
     justify-content: center;
     color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.paragrafocopo {
+    color: #c4c3c0;
+    font-family: garamond;
+    margin: 5px;
+}
+
+.copodafelicidade {
+    margin: 20px;
 }
