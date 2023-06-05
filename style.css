@@ -89,3 +89,14 @@ body {
 .copodafelicidade {
     margin: 20px;
 }
+.de {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    color: #542927;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.opções {
+    margin: 10px;
+}
