@@ -90,8 +90,6 @@ body {
     margin: 20px;
 }
 .de {
-    display: flex;
-    justify-content: center;
     margin-top: 10px;
     color: #542927;
 }
