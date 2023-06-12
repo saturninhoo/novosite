@@ -102,3 +102,11 @@ body {
 .opções {
     margin: 10px;
 }
+
+.nome {
+    width: 350px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 3px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.5);
+}
