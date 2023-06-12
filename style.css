@@ -89,7 +89,10 @@ body {
 .copodafelicidade {
     margin: 20px;
 }
+
 .de {
+    display: flex;
+    justify-content: center;
     margin: 50px;
     color: #542927;
 }
