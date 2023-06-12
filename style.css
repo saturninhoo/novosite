@@ -11,6 +11,8 @@ body {
 }
 
 .venha {
+    display: flex;
+    justify-content: center;
     color: #542927;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
