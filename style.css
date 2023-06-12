@@ -1,6 +1,6 @@
 body {
-    background-color: #e87a74;
-}
+    background: rgb(203,94,88);
+    background: linear-gradient(90deg, rgba(203,94,88,1) 0%, rgba(232,122,116,1) 50%, rgba(203,94,88,1) 100%);}
 
 .nome {
     color: #910b04;
