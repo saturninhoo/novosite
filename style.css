@@ -36,6 +36,12 @@ body {
     margin: 20px;
 }
 
+.lista {
+    color: #c4c3c0;
+    font-family: garamond;
+    margin: 5px;
+}
+
 .titulo4 {
     display: flex;
     justify-content: center;
