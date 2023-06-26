@@ -115,12 +115,7 @@ body {
 }
 
 .cardapio {
-    margin: 20px;
+    margin: 500px;
     width: 360px;
     height: 640px;
-}
-
-.com cadarpio {
-    display: flex;
-    align-items: center;
 }
