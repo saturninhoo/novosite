@@ -119,3 +119,8 @@ body {
     width: 540px;
     height: 960px;
 }
+
+.com cadarpio {
+    display: flex;
+    justify-content: center;
+}
