@@ -25,10 +25,15 @@ body {
 }
 
 .paragrafo {
-
     color: #c4c3c0;
     font-family: garamond;
     margin: 55px;}
+
+.paragrafocardapio {
+    color: #c4c3c0;
+    font-family: garamond;
+    margin: 55px;}
+}
 
 .titulo3 {
     color: #542927;
