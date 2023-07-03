@@ -119,3 +119,8 @@ body {
     width: 360px;
     height: 640px;
 }
+
+.cardapiooooo {
+    display: flex;
+    justify-content: center;
+}
